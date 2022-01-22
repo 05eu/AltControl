@@ -1,4 +1,4 @@
-getgenv().Seller =  "GS21" -- Seller EXACT USERNAME ("Example") case sentive 
+getgenv().Seller =  "lukbakbak2" -- Seller EXACT USERNAME ("Example") case sentive 
 getgenv().altMsg = "Thanks for using GS21's Seller Tools" -- Message the alts will say when .chat not .say
 -- MAKE SURE THE SELLER IS INSIDE THE SERVER BEFORE EXECUTING
 
